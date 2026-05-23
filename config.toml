@@ -9,7 +9,7 @@ parallel-jobs = 1
 cli-source = "MorpheApp/morphe-cli"
 cli-version = "dev"
 
-[YouTube]
+[YouTube-Extended]
 app-name="Youtube"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
